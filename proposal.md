@@ -1,10 +1,12 @@
 ## Research Proposal: < Title >¶
+
 By Minh Nguyen, Mason Schick, Rebecca Zamsky, Alicia Zhang
 
-# Research Question
-This section should cover:
+Research Question¶
 
-What do we want to know or what problems are we trying to solve? As in the midterm, you should list (1) the “bigger” question/debate/problem you’re interested in, and also (2) the specific research question(s) you’ll actually try to answer.
+The bigger question the team is trying to solve is What are important leading indicators of a recession? Essentially, what "red flags" should we be looking out for in economic data that details that a recession is upcoming. One of the variables we are interested in observing is the inverted yield curve. While we know that the inverted yield curve is correlated with a recession the team would like to explore if it predicts one. In short, our research question is: Does an inverted yield curve precipitate a recession?
+
+O
 
 The research question will be smaller in scope than the big picture question. But the answer to your specific research question should shed light on the bigger question (although it likely won’t conclusively answer it).
 
@@ -15,6 +17,7 @@ If your project is about relationships, what are the hypotheses you’re testing
 If your project is about prediction, what is your metrics of success? (What are you maximizing?) Can you find a baseline from prior work to give you a ball park to aim for?
 
 # Necessary Data
+
 This section should cover:
 
 What does the final dataset need to look like (mostly dictated by the question and the availability of data):
@@ -36,6 +39,6 @@ What are the raw inputs and how will you store them (the folder structure(s) for
 Speculate at a high level (not specific code!) about how you’ll transform the raw data into the final form.
 <<<<<<< HEAD
 
-Mason
-=======
->>>>>>> 131ff7d8d191709d45d35e593e6b0aa6942e6b0e
+# Mason
+
+> > > > > > > 131ff7d8d191709d45d35e593e6b0aa6942e6b0e
