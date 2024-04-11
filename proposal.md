@@ -3,9 +3,9 @@ By X, Y, and Z
 
 Research Question¶
 
-The bigger question the team is trying to solve is What are important leading indicators of a recession? Essentially, what "red flags" should we be looking out for in economic data that details that a recession is upcoming. One of the variables we are interested in observing is the inverted yield curve. While we know that the inverted yield curve is correlated with a recession the team would like to explore if it predicts one. In short, our research question is: Does an inverted yield curve precipitate a recession? 
+The bigger question the team is trying to solve is What are important leading indicators of a recession? Essentially, what "red flags" should we be looking out for in economic data that details that a recession is upcoming. One of the variables we are interested in observing is the inverted yield curve. While we know that the inverted yield curve is correlated with a recession, the team would like to explore if it predicts one. In short, our research question is: Does an inverted yield curve precipitate a recession? 
 
-O
+Our project is about prediction, not about relationships. To measure the success of our prediction, we will look at 
 
 The research question will be smaller in scope than the big picture question. But the answer to your specific research question should shed light on the bigger question (although it likely won’t conclusively answer it).
 
