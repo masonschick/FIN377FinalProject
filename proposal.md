@@ -1,5 +1,5 @@
 Research Proposal: < Title >¶
-By X, Y, and Z
+By 
 
 Research Question¶
 This section should cover:
@@ -34,5 +34,3 @@ How will we collect more data?
 What are the raw inputs and how will you store them (the folder structure(s) for each input type)?
 
 Speculate at a high level (not specific code!) about how you’ll transform the raw data into the final form.
-
-Alicia Zhang
