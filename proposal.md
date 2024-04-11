@@ -1,7 +1,7 @@
-Research Proposal: < Title >¶
-By 
+## Research Proposal: < Title >¶
+By Minh Nguyen, Mason Schick, Rebecca Zamsky, Alicia Zhang
 
-Research Question¶
+# Research Question
 This section should cover:
 
 What do we want to know or what problems are we trying to solve? As in the midterm, you should list (1) the “bigger” question/debate/problem you’re interested in, and also (2) the specific research question(s) you’ll actually try to answer.
@@ -14,7 +14,7 @@ If your project is about relationships, what are the hypotheses you’re testing
 
 If your project is about prediction, what is your metrics of success? (What are you maximizing?) Can you find a baseline from prior work to give you a ball park to aim for?
 
-Necessary Data¶
+# Necessary Data
 This section should cover:
 
 What does the final dataset need to look like (mostly dictated by the question and the availability of data):
